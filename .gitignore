@@ -1,0 +1,14 @@
+financial_system/customer/__pycache__/
+financial_system/administration/__pycache__/
+financial_system/main_app/__pycache__/
+financial_system/bank_database/__pycache__/
+financial_system/accounts/__pycache__/
+financial_system/administration/__init__.py/
+financial_system/__init__.py/
+financial_system/__init__.py
+financial_system/administration/__init__.py
+financial_system/customer/__init__.py
+financial_system/main_app/__init__.py
+financial_system/bank_database/__init__.py
+financial_system/functions_specs.md
+financial_system/bank_data.db
